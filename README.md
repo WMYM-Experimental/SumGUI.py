@@ -1,2 +1,3 @@
 # SumWithTkinter
 First attempt on using Tkinter and Gui in python
+Im going to improve this soom making a entire calculator in Tkinter with python...
