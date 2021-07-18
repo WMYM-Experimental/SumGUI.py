@@ -1,4 +1,5 @@
 # SumWithTkinter
 First attempt on using Tkinter and Gui in python
+## Im working on python so...
 Im going to try more using Tkinter with python...
-but I think there are better languages to do this
+but I think there are better languages to do GUI projects
